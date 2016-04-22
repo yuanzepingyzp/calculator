@@ -1,0 +1,51 @@
+body{
+   background-color: #611D19;
+}
+
+
+
+button{
+  width: 100px;
+  height:100px;
+  background-color: #912823;
+  color:white;
+  font-size:2em;
+  border: none;
+  border-top: 1px solid white;
+}
+
+button:hover{
+  background-color: white;
+  color: black;
+}
+
+.clear{
+  background-color: #822521;
+  width: 400px;
+}
+
+input{
+  border: none;
+  border-top: 10px solid #A62131;
+  width:400px;
+  height:100px;
+  background-color: black;
+  color:white;
+  font-size:20px;
+}
+
+section{
+  width: 400px;
+  margin: 0 auto;
+  box-shadow:1px 1px 1px black;
+}
+
+h1{
+  text-align: center;
+  color: white;
+}
+
+footer{
+  text-align: center;
+  color:white;
+}
